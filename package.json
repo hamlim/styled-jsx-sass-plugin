@@ -1,0 +1,14 @@
+{
+  "name": "styled-jsx-sass-plugin",
+  "version": "1.0.0",
+  "description": "A sass styled-jsx plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Hamlin <hamlim@outlook.com> (https://matthamlin.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  }
+}
